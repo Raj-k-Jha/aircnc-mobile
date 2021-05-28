@@ -1,0 +1,132 @@
+*{
+    padding: 0px;
+margin: 0px;
+}
+#logo img{
+    border-right: 1px solid #ccc;
+
+}
+img.center{
+border-radius: 50%;
+width: 60px;
+display: block;
+margin: 0 auto !important;
+border:1px solid #ccc;
+}
+
+#owner{
+    color: #6c757d;
+    text-align: center;
+    font-weight: bold;
+}
+#owner span{
+    color: rgb(155, 154, 154);
+    font-weight: 500;
+}
+#meinfo{
+    color: #6c757d;
+    text-align: center;
+    letter-spacing: 0.4px;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+.svg{
+margin: 10px auto;
+  display: inline-flex;
+  width: 100%;
+  
+ 
+}
+.svg div{
+text-align: center;
+    width: 100%;
+    font-size: 14px
+    border: 1px solid black;
+    margin-bottom:10px;
+}
+svg div p{
+font-weight: lighter;
+font-size: 10px
+}
+.pricetag {
+    text-align: center;
+    font-weight: bold;
+    margin: 10px 0px;
+    font-size: 25px;
+}
+.pricetag span{
+    font-size: 15px;
+}
+#btn{
+    margin: 10px 40px;
+padding: 7px;
+width: 80%;
+background-color: #e5383b;
+color: white;
+border-radius: 10px;
+font-size: 20px;
+font-family:serif;
+margin-bottom: 20px;
+outline: none;
+}
+.about{
+    text-align: center;
+    
+    background-color: rgb(233, 233, 233);
+}
+.about h1{
+    padding: 20px;
+    border-top: 0.1px solid #ccc;
+    font-size: 20px;
+}
+.about div p{
+     line-height: 20px;
+padding: 10px;}
+#contact {
+    color: #e5383b;
+    text-align: center;
+    font-weight: 800;
+    padding: 10px;
+}
+#contact a{
+    color: #e5383b;
+    text-decoration: none;
+
+}
+.care{
+   padding: 10px;
+   line-height: 25px;
+   background-color: rgb(233, 233, 233);
+   border-top: 0.4px solid #ccc;
+
+}
+.care span{
+    font-weight: 700;
+}
+.games{
+    padding: 10px;
+
+    background-color: rgb(233, 233, 233);
+border-top: 0.4px solid #ccc;
+}
+.games span{
+    padding-right: 10px;
+    
+}
+.games p{
+    padding-bottom: 10px;
+}
+.pics{
+    background-color: rgb(233, 233, 233);
+    padding: 10px;
+}
+.pics img{
+    width: 32.5%;
+}
+footer{
+    background-color: rgb(251, 240, 197);
+    color: darkblue;
+    width: 100%;
+    padding: 3px;
+    text-align: center;
+}
